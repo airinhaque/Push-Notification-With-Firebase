@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "351644872444",
+    "project_id": "lively-option-392317",
+    "storage_bucket": "lively-option-392317.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351644872444:android:b738275cd7a3113ea0f179",
+        "android_client_info": {
+          "package_name": "io.nyuad.laundry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351644872444-svh52u01ql55h7aucprl84r3ltsl0rlj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfgjLGknSvdS76b7VmSPKUh_wMIBRQUV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351644872444-svh52u01ql55h7aucprl84r3ltsl0rlj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "351644872444-1b960i38q6c9gu1gdi1i6s8rhkp3btao.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.nyuad.laundry.notification"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351644872444:android:135f9a4d2229437ca0f179",
+        "android_client_info": {
+          "package_name": "io.nyuad.laundry.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351644872444-svh52u01ql55h7aucprl84r3ltsl0rlj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfgjLGknSvdS76b7VmSPKUh_wMIBRQUV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351644872444-svh52u01ql55h7aucprl84r3ltsl0rlj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "351644872444-1b960i38q6c9gu1gdi1i6s8rhkp3btao.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.nyuad.laundry.notification"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
